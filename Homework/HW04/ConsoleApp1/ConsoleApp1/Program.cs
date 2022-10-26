@@ -2,14 +2,14 @@
 {
     public static void Age()
     {
-        int num, sum=0,i;
+        int num, sum = 0, i;
         float ave;
         Console.WriteLine("Please input the number of people:");
         num = Convert.ToInt32(Console.ReadLine());
-        for(i=0;i<num;)
+        for (i = 0; i < num;)
         {
             Console.WriteLine($"Please input age {++i}");
-            sum+= Convert.ToInt32(Console.ReadLine());
+            sum += Convert.ToInt32(Console.ReadLine());
         }
         ave = (float)sum / (float)num;
         Console.WriteLine($"sum of age is {sum}");
@@ -18,9 +18,9 @@
     public static void Guess()
     {
         Random rand = new Random();
-        int un = rand.Next(10000),tt=0;//不包含0和10000
-        Console.WriteLine("Now I have a number between 0 and 10000, please guess");
-        while (tt!=un)
+        int un = rand.Next(1000), tt = 0;//不包含0和1000
+        Console.WriteLine("Now I have a number between 0 and 1000, please guess");
+        while (tt != un)
         {
             tt = Convert.ToInt32(Console.ReadLine());
             if (tt > un) Console.WriteLine("too big, guess again");
@@ -30,7 +30,7 @@
     }
     public static void Main()
     {
-        while(true)
+        while (true)
         {
             int t;
             Console.WriteLine("welcome,\n" +
@@ -39,8 +39,8 @@
                               "      3 to quit");
             t = Convert.ToInt32(Console.ReadLine());
             if (t == 3) break;
-            else if (t==2) Guess();
-            else if (t==1) Age();
+            else if (t == 2) Guess();
+            else if (t == 1) Age();
             else
             {
                 Console.WriteLine("invalid number, please input again");
