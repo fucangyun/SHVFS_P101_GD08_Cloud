@@ -7,11 +7,11 @@
         Console.WriteLine("Welcome! Please input your name!");
         name = Console.ReadLine();
         Random random = new Random();
+        j = random.Next(3);
 
 
         string[] a = {"cloud", "Cloud", "CLOUD"};
         Console.WriteLine($"Hi {name}, let's guess! Now all the words are {a[0]}, {a[1]} and {a[2]} !");
-        j = random.Next(3);
         for (i=1; ;i++)
         {
             guess = Console.ReadLine();
@@ -34,7 +34,7 @@
             Console.WriteLine($"It's too small! Guess again!");
         }*/
 
-
-        Console.WriteLine($"Hi {name}! You won after {i} times!");
+        if(i==1) Console.WriteLine($"Hi {name}! You won after {i} time!");
+        else     Console.WriteLine($"Hi {name}! You won after {i} times!");
     }
 }
