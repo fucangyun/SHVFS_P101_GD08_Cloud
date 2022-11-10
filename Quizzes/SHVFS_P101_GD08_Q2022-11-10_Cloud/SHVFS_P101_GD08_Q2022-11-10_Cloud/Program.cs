@@ -3,24 +3,38 @@
     public static void Main()
     {
         string secret, guess, name;
-        int i;
-        Random random = new Random();
-        int secretnum = random.Next(97, 123);
-        secret = Convert.ToChar(secretnum).ToString();
+        int i,j;
         Console.WriteLine("Welcome! Please input your name!");
-        name= Console.ReadLine();
-        Console.WriteLine($"Hi {name}, let's guess! input your guess!");
+        name = Console.ReadLine();
+        Random random = new Random();
+
+
+        string[] a = {"cloud", "Cloud", "CLOUD"};
+        Console.WriteLine($"Hi {name}, let's guess! Now all the words are {a[0]}, {a[1]} and {a[2]} !");
+        j = random.Next(3);
+        for (i=1; ;i++)
+        {
+            guess = Console.ReadLine();
+            if (guess == a[j]) break;
+            Console.WriteLine("Wrong! Guess again!");
+        }
+
+
+        /*int secretnum = random.Next(97, 123);
+        secret = Convert.ToChar(secretnum).ToString();
+        Console.WriteLine($"Hi {name}, let's guess! input your guess! Tips: Single lowercase letter!");
         for (i=1; ;i++)
         {
             guess = Console.ReadLine();
             Console.Clear();
-            if (guess == secret) break;
-            /*            else if (Convert.ToChar(guess).ToInt32() > secretnum)
-                            Console.WriteLine($"It's too big! Guess again!");
-                        else if (Convert.ToInt32(guess) < secretnum)
-                            Console.WriteLine($"It's too big! Guess again!");*/
-            Console.WriteLine($"Wrong! Please guess again!");
-        }
+            if (string.Compare(guess,secret)==0) break;
+            else if (string.Compare(guess, secret) == 1)
+            Console.WriteLine($"It's too big! Guess again!");
+            else if (string.Compare(guess, secret) == -1)
+            Console.WriteLine($"It's too small! Guess again!");
+        }*/
+
+
         Console.WriteLine($"Hi {name}! You won after {i} times!");
     }
 }

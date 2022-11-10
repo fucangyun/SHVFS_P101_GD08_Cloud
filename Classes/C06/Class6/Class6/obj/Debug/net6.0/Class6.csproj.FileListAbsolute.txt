@@ -1,0 +1,15 @@
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\bin\Debug\net6.0\Class6.exe
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\bin\Debug\net6.0\Class6.deps.json
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\bin\Debug\net6.0\Class6.runtimeconfig.json
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\bin\Debug\net6.0\Class6.dll
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\bin\Debug\net6.0\Class6.pdb
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.csproj.AssemblyReference.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.AssemblyInfoInputs.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.AssemblyInfo.cs
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.csproj.CoreCompileInputs.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.dll
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\refint\Class6.dll
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.pdb
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\Class6.genruntimeconfig.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Classes\C06\Class6\Class6\obj\Debug\net6.0\ref\Class6.dll
