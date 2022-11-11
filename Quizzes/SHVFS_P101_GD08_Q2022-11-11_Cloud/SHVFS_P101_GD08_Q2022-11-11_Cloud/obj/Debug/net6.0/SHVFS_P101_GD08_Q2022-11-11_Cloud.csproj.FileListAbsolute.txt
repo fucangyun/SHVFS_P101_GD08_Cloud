@@ -1,0 +1,15 @@
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.exe
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.deps.json
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.runtimeconfig.json
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.dll
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.pdb
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.csproj.AssemblyReference.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.AssemblyInfoInputs.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.AssemblyInfo.cs
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.csproj.CoreCompileInputs.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.dll
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Q2022-11-11_Cloud.dll
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.pdb
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-11_Cloud.genruntimeconfig.cache
+D:\Repositories\github\SHVFS_P101_GD08_Cloud\Quizzes\SHVFS_P101_GD08_Q2022-11-11_Cloud\SHVFS_P101_GD08_Q2022-11-11_Cloud\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Q2022-11-11_Cloud.dll
