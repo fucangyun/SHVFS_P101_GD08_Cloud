@@ -16,7 +16,7 @@ class Q07
     }
     public class GameObject
     {
-        string name;
+        public string name;
         Position pos;
         public bool comp (GameObject game)
         {
@@ -43,7 +43,9 @@ class Q07
         {
             for(j=i+1;j<5;j++)
             {
-                if (ggame[i].comp(ggame[j])) ans++;
+                if (ggame[i].comp(ggame[j]))
+                    Console.WriteLine($"{ggame[i].name} and {ggame[j].name} have the same postion");
+                ans++;
             }
         }
         Console.WriteLine($"The pair in this array is {ans}.");
