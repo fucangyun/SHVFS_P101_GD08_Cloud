@@ -7,7 +7,7 @@ class Q07
         public int x;
         public int y;
         public int z;
-        public Position (int X, int Y, int Z)
+        public Position (int X, int Y, int Z)//constructor 构造函数
         {
             x = X;
             y = Y;
@@ -16,15 +16,13 @@ class Q07
     }
     public class GameObject
     {
-        public string name;
-        Position pos;
+        public string name;//注意public
+        public Position pos;
         public bool comp (GameObject game)
         {
-            if (pos.x == game.pos.x && pos.y == game.pos.y && pos.z == game.pos.z)
-                return true;
-            else return false;
+            return pos.x == game.pos.x && pos.y == game.pos.y && pos.z == game.pos.z;
         }
-        public GameObject(string Name, int X, int Y, int Z)
+        public GameObject(string Name, int X, int Y, int Z)//constructor 构造函数
         {
             name = Name;
             pos = new Position(X, Y, Z);
@@ -48,7 +46,7 @@ class Q07
                 ans++;
             }
         }
-        Console.WriteLine($"The pair in this array is {ans}.");
+        Console.WriteLine($"The number of pairs in this array is {ans}.");
         Console.ReadLine();
     }
 }
