@@ -144,11 +144,11 @@ namespace SHVFS_P101_GD08_C7_SnakesOnATrain
                 }
                 playerOne.Position = playerOne.Position + playerOne.Direction;
                 playerTwo.Position = playerTwo.Position + playerTwo.Direction;
-                if (playerOne.Position.x > Console.WindowWidth || playerOne.Position.x < 0 ||
-                   playerOne.Position.y > Console.WindowHeight || playerOne.Position.y < 0 ||
+                if (playerOne.Position.x >= Console.WindowWidth || playerOne.Position.x < 0 ||
+                   playerOne.Position.y >= Console.WindowHeight || playerOne.Position.y < 0 ||
                    usedGridPositions[playerOne.Position.x, playerOne.Position.y]) flag1 = true;
-                if (playerTwo.Position.x > Console.WindowWidth || playerTwo.Position.x < 0 ||
-                   playerTwo.Position.y > Console.WindowHeight || playerTwo.Position.y < 0 ||
+                if (playerTwo.Position.x >= Console.WindowWidth || playerTwo.Position.x < 0 ||
+                   playerTwo.Position.y >= Console.WindowHeight || playerTwo.Position.y < 0 ||
                    usedGridPositions[playerTwo.Position.x, playerTwo.Position.y]) flag2 = true;
                 if(flag1 || flag2)
                 {
