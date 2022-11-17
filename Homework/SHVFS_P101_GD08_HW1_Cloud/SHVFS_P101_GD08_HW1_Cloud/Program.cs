@@ -152,6 +152,8 @@ namespace SHVFS_P101_GD08_C7_SnakesOnATrain
                    usedGridPositions[playerTwo.Position.x, playerTwo.Position.y]) flag2 = true;
                 if(flag1 || flag2)
                 {
+                    Console.CursorLeft = Console.BufferWidth/2;
+                    Console.CursorTop = 1;
                     if (flag1 && !flag2)
                     {
                         Console.WriteLine("PlayerTwo Wins!");
