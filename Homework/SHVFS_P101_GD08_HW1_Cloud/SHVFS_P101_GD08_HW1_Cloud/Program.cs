@@ -156,18 +156,24 @@ namespace SHVFS_P101_GD08_C7_SnakesOnATrain
                     Console.CursorTop = 1;
                     if (flag1 && !flag2)
                     {
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.WriteLine("PlayerTwo Wins!");
                     }
                     else if(!flag1 && flag2)
                     {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("PlayerOne Wins!");
                     }
-                    else Console.WriteLine("Draw.");
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine("Draw.");
+                    }
                     Console.ReadLine();
                     return;
                 }
 
-                Thread.Sleep(timeScale/2);
+                Thread.Sleep(timeScale/8);
             }
         }
         
