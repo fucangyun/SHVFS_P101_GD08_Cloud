@@ -173,7 +173,7 @@ namespace SHVFS_P101_GD08_C7_SnakesOnATrain
                     return;
                 }
 
-                Thread.Sleep(timeScale/8);
+                Thread.Sleep(timeScale);
             }
         }
         
